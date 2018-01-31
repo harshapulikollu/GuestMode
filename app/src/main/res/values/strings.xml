@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GuestMode</string>
+    <string name="App_image">App Image</string>
+    <string name="Installed_app_name">Installed app Name</string>
+</resources>
